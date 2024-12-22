@@ -32,7 +32,8 @@ Is our Model able to predict which customers are of high risk of churn and can w
 
 ## Visualizations
 
-![Churn by international plan](images\churn by international plan.png)
+https://github.com/Mash-bot/Phase-3-project/blob/main/images/Train%20and%20test%20AUC%20for%20max%20tree%20depth.png
+
 
 
 
