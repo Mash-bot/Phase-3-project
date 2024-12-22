@@ -29,3 +29,12 @@ Is our Model able to predict which customers are of high risk of churn and can w
 - Droped some unnecessary columns: account length, area code, phone number and state
 - Dealt with outliers in some columns: Total day minutes, Total day calls, Total eve calls, Total night minutes, Total night calls.
 - One Hot Encoding: international plan, voice mail plan columns were OneHotEncoded because they are categorical columns.
+
+## Visualizations
+
+![Churn by international plan](images\churn by international plan.png)
+
+
+
+
+
